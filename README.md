@@ -18,3 +18,4 @@ Langkah kedua dalam belajar menggunakan Git adalah Anda harus login ke dalam web
 ![Gambar 1](screenshoot/ss3.png) 
 
 -Setelah anda login, maka akan muncul tampilan dashboard dari Github seperti gambar dibawah ini. 
+![Gambar 1](screenshoot/ss2.png) 
