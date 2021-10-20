@@ -77,20 +77,6 @@ Untuk bisa menambahkan file ke repository GitHub, Anda perlu menerapkan langkah-
  
 
 • Buka GitBash pada folder Latihan-Vcs1 dengan cara klik kanan kursor.
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
 • Setelah itu, Command Prompt akan muncul seperti gambar di bawah ini.
  
 lalu masukkan perintah berikut:
