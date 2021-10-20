@@ -52,6 +52,7 @@ Setelah itu, Command Prompt akan muncul seperti gambar di bawah ini.
 Buat perintah git clone dan pastekan code https yang telah di copy tadi dengan menggunakan perintah (git clone). 
 
 $ git clone https://github.com/RaihanTantowi/Latihan-Vcs.git lalu klik enter
+
 perintah ini berguna untuk menambahkan repository yang ada di github ke local disk komputer.
 ![Gambar 10](screenshoot/ss10.png)
 
