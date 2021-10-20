@@ -29,10 +29,10 @@ Kemudian Anda akan diarahkan pada halaman untuk membuat repository baru seperti 
 ![Gambar 5](screenshoot/ss5.png)
 
 Anda perlu mengisi detail informasi berikut:
-• Nama Repository      : digunakan untuk identitas repository yang dibuat.
-• Deskripsi Repository : berfungsi untuk deskripsi dari repository yang dibuat.
-• Jenis Repository     : jenis repository  dibagi menjadi Public dan Private. Ketika Anda mengatur repository menjadi Public, orang lain dapat melihat repository yang Anda buat. Sebaliknya, jika Anda mengaturnya sebagai Private, repository tersebut hanya bisa diakses oleh Anda. Setelah mengisi detail informasi di atas, klik Create Repository.
-- lalu salin code https repository yg telah kita buat di github  
+•Nama Repository: digunakan untuk identitas repository yang dibuat.
+•Deskripsi Repository: berfungsi untuk deskripsi dari repository yang dibuat.
+•Jenis Repository: jenis repository dibagi menjadi Public dan Private. Ketika Anda mengatur repository menjadi Public, orang lain dapat melihat repository yang Anda buat. Sebaliknya, jika Anda mengaturnya sebagai Private, repository tersebut hanya bisa diakses oleh Anda. Setelah mengisi detail informasi di atas, klik Create Repository.
+lalu salin code https repository yg telah kita buat di github  
  
 
 2.	Buat Folder pada Windows
