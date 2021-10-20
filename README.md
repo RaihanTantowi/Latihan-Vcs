@@ -27,6 +27,7 @@ Setelah berhasil login ke Github, Anda bisa mulai membuat repository. Klik tombo
 
 Kemudian Anda akan diarahkan pada halaman untuk membuat repository baru seperti gambar dibawah ini.
 ![Gambar 5](screenshoot/ss5.png)
+
 Anda perlu mengisi detail informasi berikut:
 • Nama Repository      : digunakan untuk identitas repository yang dibuat.
 • Deskripsi Repository : berfungsi untuk deskripsi dari repository yang dibuat.
