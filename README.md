@@ -34,11 +34,11 @@ Kemudian Anda akan diarahkan pada halaman untuk membuat repository baru seperti 
 ![Gambar 5](screenshoot/ss5.png)
 
 Anda perlu mengisi detail informasi berikut:
-* Nama Repository: digunakan untuk identitas repository yang dibuat.
-* Deskripsi Repository: berfungsi untuk deskripsi dari repository yang dibuat.
-* Jenis Repository: jenis repository dibagi menjadi Public dan Private. Ketika Anda mengatur repository menjadi Public, orang lain dapat melihat repository yang Anda buat. Sebaliknya, jika Anda mengaturnya sebagai Private, repository tersebut hanya bisa diakses oleh Anda. Setelah mengisi detail informasi di atas, klik Create Repository.
+* **Nama Repository:** digunakan untuk identitas repository yang dibuat.
+* **Deskripsi Repository:** berfungsi untuk deskripsi dari repository yang dibuat.
+* **Jenis Repository:** jenis repository dibagi menjadi Public dan Private. Ketika Anda mengatur repository menjadi Public, orang lain dapat melihat repository yang Anda buat. Sebaliknya, jika Anda mengaturnya sebagai Private, repository tersebut hanya bisa diakses oleh Anda. Setelah mengisi detail informasi di atas, klik Create Repository.
 
-lalu salin code https repository yang telah kita buat di github.
+lalu **salin code** https repository yang telah kita buat di github.
 
 ![Gambar 6](screenshoot/ss6.png)
  
@@ -46,12 +46,12 @@ lalu salin code https repository yang telah kita buat di github.
 Selanjutnya, Anda perlu membuat folder pada local disk komputer Anda. Fungsinya adalah untuk menyimpan update file dari repository GitHub yang telah Anda buat.
 Buat new folder dan tentukan folder, 
 
-contoh: berlokasi di /d/Labs
+contoh: berlokasi di **/d/Labs**
 
 ![Gambar 7](screenshoot/ss7.png)
 
 ### 5. Buka folder menggunakan Git Bash
-Setelah berhasil membuat folder pada local disk komputer Anda, buka folder tersebut dengan cara klik kanan lalu pilih **Git Bash Here**.
+Setelah berhasil membuat folder pada local disk komputer Anda, buka folder tersebut dengan cara klik kanan lalu pilih **Git Bash Here.**
 
 ![Gambar 8](screenshoot/ss8.png)
 
@@ -60,9 +60,9 @@ Setelah itu, Command Prompt akan muncul seperti gambar di bawah ini.
 ![Gambar 9](screenshoot/ss9.png)
 
 ### 6. Buat Git Clone
-Buat perintah git clone dan pastekan code https yang telah di copy tadi dengan menggunakan perintah (git clone). 
+Buat perintah git clone dan pastekan code https yang telah di copy tadi dengan menggunakan perintah **(git clone).** 
 
-$ git clone https://github.com/RaihanTantowi/Latihan-Vcs.git lalu klik enter
+**$ git clone** https://github.com/RaihanTantowi/Latihan-Vcs.git lalu klik enter
 
 ![Gambar 10](screenshoot/ss10.png)
 
@@ -73,15 +73,15 @@ Kemudian file repository yang ada pada github akan muncul secara otomatis ke loc
 
 ### 7. Tambahkan File ke Repository
 Untuk bisa menambahkan file ke repository GitHub, Anda perlu menerapkan langkah-langkah di bawah ini:
-* Contohnya, disini kami membuat file Belajar_Html_Upb.html pada folder Latihan-Vcs1
+* Contohnya, Disini kami membuat file Belajar_Html_Upb.html pada folder Latihan-Vcs1
 ![Gambar 12](screenshoot/ss12.png)
 * Buka GitBash pada folder Latihan-Vcs1 dengan cara klik kanan kursor.
 ![Gambar 13](screenshoot/ss13.png)
 * Setelah itu, Command Prompt akan muncul seperti gambar di bawah ini.
 ![Gambar 14](screenshoot/ss14.png)
 
-lalu masukkan perintah berikut, $ git add Belajar_Html_Upb.html 
-
+lalu masukkan perintah berikut, **$ git add Belajar_Html_Upb.html** 
+Perintah **$ git add** berfungsi menambahkan file baru pada repository yang dipilih dan
 Perintah tersebut tidak akan menghasilkan output apa pun.
 
 ### 8. Buat Commit 
@@ -98,7 +98,7 @@ Masukkan perintah berikut untuk membuat Commit:
 Pada tutorial ini kami membuat **“Menambahkan file Belajar_Html_Upb.html”** sebagai Commit menambahkan file baru. Anda bebas membuat membuat nama Commit apa saja.
 
 ### 9. Buat Git Status 
-Perintah git status menampilkan daftar file yang berubah Bersama dengan file yang ingin di tambahkan atau di-commit. Gunakan: **"$ git status"**
+Perintah git status menampilkan daftar file yang berubah Bersama dengan file yang ingin di tambahkan atau di-commit. Gunakan: **$ git status**
 
 ![Gambar 16](screenshoot/ss16.png)
 
@@ -108,10 +108,10 @@ Selanjutnya adalah melakukan push file ke github.
 ![Gambar 17](screenshoot/ss17.png)
 
 Push ini berfungsi untuk mengupload hasil akhir dari langkah-langkah di atas. 
-Masukkan perintah berikut untuk melakukan push ke GitHub, **"$ git push -u origin main"**. Perintah di atas akan menampilkan pop up sign in GitHub. Anda perlu login untuk melanjutkan proses push ke GitHub.
+Masukkan perintah berikut untuk melakukan push ke GitHub, **"$ git push -u origin main"**. Perintah di atas akan menampilkan pop up sign in GitHub. Anda perlu login untuk melanjutkan proses push ke github.
 
 ### 11. Cek file
-Langkah terakhir adalah mengecek file dengan cara Masuk ke situs github dan login, maka anda akan mendapati file yang telah ditambahkan sebelumnya.
+Langkah terakhir adalah mengecek file dengan cara masuk ke situs github dan login, Maka anda akan mendapati file yang telah ditambahkan sebelumnya.
 
 ![Gambar 18](screenshoot/ss18.png)
 
