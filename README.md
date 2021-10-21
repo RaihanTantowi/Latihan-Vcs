@@ -26,15 +26,13 @@ Setelah berhasil login ke Github, Anda bisa mulai membuat repository. Klik tombo
 ![Gambar 4](screenshoot/ss4.png)
 
 Kemudian Anda akan diarahkan pada halaman untuk membuat repository baru seperti gambar dibawah ini.
+
 ![Gambar 5](screenshoot/ss5.png)
 
 Anda perlu mengisi detail informasi berikut:
-
-•Nama Repository: digunakan untuk identitas repository yang dibuat.
-
-•Deskripsi Repository: berfungsi untuk deskripsi dari repository yang dibuat.
-
-•Jenis Repository: jenis repository dibagi menjadi Public dan Private. Ketika Anda mengatur repository menjadi Public, orang lain dapat melihat repository yang Anda buat. Sebaliknya, jika Anda mengaturnya sebagai Private, repository tersebut hanya bisa diakses oleh Anda. Setelah mengisi detail informasi di atas, klik Create Repository.
+* Nama Repository: digunakan untuk identitas repository yang dibuat.
+* Deskripsi Repository: berfungsi untuk deskripsi dari repository yang dibuat.
+* Jenis Repository: jenis repository dibagi menjadi Public dan Private. Ketika Anda mengatur repository menjadi Public, orang lain dapat melihat repository yang Anda buat. Sebaliknya, jika Anda mengaturnya sebagai Private, repository tersebut hanya bisa diakses oleh Anda. Setelah mengisi detail informasi di atas, klik Create Repository.
 
 lalu salin code https repository yg telah kita buat di github  
  
@@ -50,7 +48,8 @@ Setelah itu, Command Prompt akan muncul seperti gambar di bawah ini.
 
 ### 6. Buat Git Clone
 Buat perintah git clone dan pastekan code https yang telah di copy tadi dengan menggunakan perintah (git clone). 
-* $ git clone https://github.com/RaihanTantowi/Latihan-Vcs.git lalu klik enter
+
+$ git clone https://github.com/RaihanTantowi/Latihan-Vcs.git lalu klik enter
 
 ![Gambar 10](screenshoot/ss10.png)
 
