@@ -12,17 +12,21 @@ $ git config --global user.email “IsiDenganEmailAnda@gmail.com”
 
 Selanjutnya untuk memastikan proses login Anda berhasil, masukkan perintah berikut.
 $ git config –list
+
 ![Gambar 1](screenshoot/ss1.png)
 
  ### 2. Login GitHub
 Langkah kedua dalam belajar menggunakan Git adalah Anda harus login ke dalam website GitHub. Github dan Git memiliki hubungan khusus, yaitu Git yang berperan sebagai version control system dan Github menjadi hosting atau sebagai penyimpan kode pemrograman. (jika belum memiliki akun github segera untuk daftar terlebih  dahulu).
+
 ![Gambar 2](screenshoot/ss3.png) 
 
 Setelah anda login, maka akan muncul tampilan dashboard dari Github seperti gambar dibawah ini. 
+
 ![Gambar 3](screenshoot/ss2.png)
 
 ### 3. Buat Repository
 Setelah berhasil login ke Github, Anda bisa mulai membuat repository. Klik tombol New pada menu Repositories untuk membuat repository baru. 
+
 ![Gambar 4](screenshoot/ss4.png)
 
 Kemudian Anda akan diarahkan pada halaman untuk membuat repository baru seperti gambar dibawah ini.
