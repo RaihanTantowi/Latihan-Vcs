@@ -93,21 +93,28 @@ Commit berfungsi untuk menambahkan update file serta komentar. Jadi setiap kontr
 
 Masukkan perintah berikut untuk membuat Commit:
 
-**$ git commit** -m "Menambahkan file Belajar_Html_Upb.html"
+**$ git commit -m** "Menambahkan file Belajar_Html_Upb.html"
 
-Pada tutorial ini kami membuat **“Menambahkan file Belajar_Html_Upb.html” sebagai Commit** menambahkan file baru. Anda bebas membuat membuat nama Commit apa saja.
+Pada tutorial ini kami membuat **“Menambahkan file Belajar_Html_Upb.html”** sebagai Commit menambahkan file baru. Anda bebas membuat membuat nama Commit apa saja.
 
 ### 9. Buat Git Status 
-Perintah git status menampilkan daftar file yang berubah Bersama dengan file yang ingin di tambahkan atau di-commit. Gunakan: "**$git status**"
+Perintah git status menampilkan daftar file yang berubah Bersama dengan file yang ingin di tambahkan atau di-commit. Gunakan: **"$ git status"**
 
 ![Gambar 16](screenshoot/ss16.png)
 
 ### 10. Push ke GitHub 
 Selanjutnya adalah melakukan push file ke github.
 
-![Gambar 16](screenshoot/ss16.png)
+![Gambar 17](screenshoot/ss17.png)
 
 Push ini berfungsi untuk mengupload hasil akhir dari langkah-langkah di atas. 
-Masukkan perintah berikut untuk melakukan push ke GitHub, **"$ git push -u origin main"**
-Perintah di atas akan menampilkan pop up sign in GitHub. Anda perlu login untuk melanjutkan proses push ke GitHub.
+Masukkan perintah berikut untuk melakukan push ke GitHub, **"$ git push -u origin main"**. Perintah di atas akan menampilkan pop up sign in GitHub. Anda perlu login untuk melanjutkan proses push ke GitHub.
+
+### 11. Cek file
+Langkah terakhir adalah mengecek file dengan cara Masuk ke situs github dan login, maka anda akan mendapati file yang telah ditambahkan sebelumnya.
+
+![Gambar 18](screenshoot/ss18.png)
+
+
+
 
