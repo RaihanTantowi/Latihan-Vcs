@@ -34,13 +34,14 @@ Anda perlu mengisi detail informasi berikut:
 * Deskripsi Repository: berfungsi untuk deskripsi dari repository yang dibuat.
 * Jenis Repository: jenis repository dibagi menjadi Public dan Private. Ketika Anda mengatur repository menjadi Public, orang lain dapat melihat repository yang Anda buat. Sebaliknya, jika Anda mengaturnya sebagai Private, repository tersebut hanya bisa diakses oleh Anda. Setelah mengisi detail informasi di atas, klik Create Repository.
 
-lalu salin code https repository yag telah kita buat di github.
+lalu salin code https repository yang telah kita buat di github.
 
 ![Gambar 6](screenshoot/ss6.png)
  
 ### 4. Buat Folder pada Windows
 Selanjutnya, Anda perlu membuat folder pada local disk komputer Anda. Fungsinya adalah untuk menyimpan update file dari repository GitHub yang telah Anda buat.
-buat new folder dan tentukan folder, contoh: berlokasi di /d/Labs
+Buat new folder dan tentukan folder, contoh: berlokasi di /d/Labs
+![Gambar 6](screenshoot/ss6.png)
 
 ### 5. Buka folder menggunakan Git Bash
 Setelah berhasil membuat folder pada local disk komputer Anda, buka folder tersebut dengan cara klik kanan lalu pilih Git Bash Here.
