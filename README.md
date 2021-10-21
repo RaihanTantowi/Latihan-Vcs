@@ -50,7 +50,7 @@ Setelah itu, Command Prompt akan muncul seperti gambar di bawah ini.
 
 ### 6. Buat Git Clone
 Buat perintah git clone dan pastekan code https yang telah di copy tadi dengan menggunakan perintah (git clone). 
-
+<!--- These are just example requirements. Add, duplicate or remove as required --->
 $ git clone https://github.com/RaihanTantowi/Latihan-Vcs.git lalu klik enter
 
 ![Gambar 10](screenshoot/ss10.png)
@@ -63,11 +63,9 @@ Kemudian file repository yang ada pada github akan muncul secara otomatis ke loc
 5.Tambahkan File ke Repository
 Untuk bisa menambahkan file ke repository GitHub, Anda perlu menerapkan langkah-langkah di bawah ini:
 
-•Contohnya, disini kami membuat file Belajar_Html_Upb.html pada folder Latihan-Vcs1
- 
-• Buka GitBash pada folder Latihan-Vcs1 dengan cara klik kanan kursor.
-
-• Setelah itu, Command Prompt akan muncul seperti gambar di bawah ini.
+* Contohnya, disini kami membuat file Belajar_Html_Upb.html pada folder Latihan-Vcs1
+* Buka GitBash pada folder Latihan-Vcs1 dengan cara klik kanan kursor.
+* Setelah itu, Command Prompt akan muncul seperti gambar di bawah ini.
  
 lalu masukkan perintah berikut:
 
