@@ -41,13 +41,14 @@ lalu salin code https repository yang telah kita buat di github.
 ### 4. Buat Folder pada Windows
 Selanjutnya, Anda perlu membuat folder pada local disk komputer Anda. Fungsinya adalah untuk menyimpan update file dari repository GitHub yang telah Anda buat.
 Buat new folder dan tentukan folder, contoh: berlokasi di /d/Labs
-![Gambar 6](screenshoot/ss6.png)
+![Gambar 7](screenshoot/ss7.png)
 
 ### 5. Buka folder menggunakan Git Bash
-Setelah berhasil membuat folder pada local disk komputer Anda, buka folder tersebut dengan cara klik kanan lalu pilih Git Bash Here.
+Setelah berhasil membuat folder pada local disk komputer Anda, buka folder tersebut dengan cara klik kanan lalu pilih **Git Bash Here**.
+![Gambar 8](screenshoot/ss8.png)
 
 Setelah itu, Command Prompt akan muncul seperti gambar di bawah ini. 
- 
+![Gambar 9](screenshoot/ss9.png)
 
 ### 6. Buat Git Clone
 Buat perintah git clone dan pastekan code https yang telah di copy tadi dengan menggunakan perintah (git clone). 
