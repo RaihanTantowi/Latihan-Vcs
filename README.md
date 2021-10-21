@@ -57,6 +57,7 @@ $ git clone https://github.com/RaihanTantowi/Latihan-Vcs.git lalu klik enter
 
 perintah ini berguna untuk menambahkan repository yang ada di github ke local disk komputer.
 Kemudian file repository yang ada pada github akan muncul secara otomatis ke local disk komputer, seperti gambar di bawah ini. 
+
 ![Gambar 1](screenshoot/ss11.png)
 
 5.Tambahkan File ke Repository
