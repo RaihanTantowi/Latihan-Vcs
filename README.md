@@ -44,7 +44,9 @@ lalu salin code https repository yang telah kita buat di github.
  
 ### 4. Buat Folder pada Windows
 Selanjutnya, Anda perlu membuat folder pada local disk komputer Anda. Fungsinya adalah untuk menyimpan update file dari repository GitHub yang telah Anda buat.
-Buat new folder dan tentukan folder, contoh: berlokasi di /d/Labs
+Buat new folder dan tentukan folder, 
+
+contoh: berlokasi di /d/Labs
 
 ![Gambar 7](screenshoot/ss7.png)
 
@@ -79,6 +81,7 @@ Untuk bisa menambahkan file ke repository GitHub, Anda perlu menerapkan langkah-
 ![Gambar 14](screenshoot/ss14.png)
 
 lalu masukkan perintah berikut, $ git add Belajar_Html_Upb.html 
+
 Perintah tersebut tidak akan menghasilkan output apa pun.
 
 ### 8. Buat Commit 
@@ -87,6 +90,7 @@ Selanjutnya, Anda perlu membuat Commit.
 ![Gambar 15](screenshoot/ss15.png)
 
 Commit berfungsi untuk menambahkan update file serta komentar. Jadi setiap kontributor bisa memberikan konfirmasi update file di proyek yang sedang dikerjakan.
+
 Masukkan perintah berikut untuk membuat Commit:
 
 $ git commit -m "Menambahkan file Belajar_Html_Upb.html"
