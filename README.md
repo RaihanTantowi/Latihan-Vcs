@@ -98,7 +98,7 @@ $ git commit -m **"Menambahkan file Belajar_Html_Upb.html"**
 Pada tutorial ini kami membuat “Menambahkan file Belajar_Html_Upb.html” sebagai Commit menambahkan file baru. Anda bebas membuat membuat nama Commit apa saja.
 
 ### 9. Buat Git Status 
-Perintah git status menampilkan daftar file yang berubah Bersama dengan file yang ingin di tambahkan atau di-commit. Gunakan: **"$git status"**
+Perintah git status menampilkan daftar file yang berubah Bersama dengan file yang ingin di tambahkan atau di-commit. Gunakan: "**$git status**"
 
 ![Gambar 16](screenshoot/ss16.png)
 
