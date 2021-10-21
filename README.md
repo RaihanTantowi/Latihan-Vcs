@@ -50,8 +50,7 @@ Setelah itu, Command Prompt akan muncul seperti gambar di bawah ini.
 
 ### 6. Buat Git Clone
 Buat perintah git clone dan pastekan code https yang telah di copy tadi dengan menggunakan perintah (git clone). 
-<!--- These are just example requirements. Add, duplicate or remove as required --->
-$ git clone https://github.com/RaihanTantowi/Latihan-Vcs.git lalu klik enter
+* $ git clone https://github.com/RaihanTantowi/Latihan-Vcs.git lalu klik enter
 
 ![Gambar 10](screenshoot/ss10.png)
 
@@ -82,12 +81,3 @@ Pada tutorial ini kami membuat “Menambahkan file Belajar_Html_Upb.html” seba
 6.	Buat Git status 
 Perintah git status menampilkan daftar file yang berubah Bersama dengan file yang ingin di tambahkan atau di-commit. Gunakan: git status
 
-## Contributing to <project_name>
-<!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
-To contribute to <project_name>, follow these steps:
-
-1. Fork this repository.
-2. Create a branch: `git checkout -b <branch_name>`.
-3. Make your changes and commit them: `git commit -m '<commit_message>'`
-4. Push to the original branch: `git push origin <project_name>/<location>`
-5. Create the pull request.
