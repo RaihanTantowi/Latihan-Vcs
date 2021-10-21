@@ -115,5 +115,5 @@ Langkah terakhir adalah mengecek file dengan cara masuk ke situs github dan logi
 
 ![Gambar 18](screenshoot/ss18.png)
 
->Sekian tutorial cara penggunaan github semoga bermanfaat,
-Kurang lebih nya mohon maap dan terima kasih.
+Sekian tutorial cara penggunaan github semoga bermanfaat,
+Kurang lebihnya mohon maaf dan terima kasih.
