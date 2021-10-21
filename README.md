@@ -69,7 +69,7 @@ Kemudian file repository yang ada pada github akan muncul secara otomatis ke loc
 
 ![Gambar 11](screenshoot/ss11.png)
 
-### 7.Tambahkan File ke Repository
+### 7. Tambahkan File ke Repository
 Untuk bisa menambahkan file ke repository GitHub, Anda perlu menerapkan langkah-langkah di bawah ini:
 * Contohnya, disini kami membuat file Belajar_Html_Upb.html pada folder Latihan-Vcs1
 ![Gambar 12](screenshoot/ss12.png)
@@ -77,15 +77,18 @@ Untuk bisa menambahkan file ke repository GitHub, Anda perlu menerapkan langkah-
 ![Gambar 13](screenshoot/ss13.png)
 * Setelah itu, Command Prompt akan muncul seperti gambar di bawah ini.
 ![Gambar 14](screenshoot/ss14.png)
-* lalu masukkan perintah berikut, $ git add Belajar_Html_Upb.html 
-![Gambar 15](screenshoot/ss15.png)
+lalu masukkan perintah berikut, $ git add Belajar_Html_Upb.html 
 Perintah tersebut tidak akan menghasilkan output apa pun.
 
-5.	Buat Commit 
+### 8. Buat Commit 
 Selanjutnya, Anda perlu membuat Commit.
- 
+
+![Gambar 15](screenshoot/ss15.png)
+
 Commit berfungsi untuk menambahkan update file serta komentar. Jadi setiap kontributor bisa memberikan konfirmasi update file di proyek yang sedang dikerjakan. Masukkan perintah berikut untuk membuat Commit:
+
 $ git commit -m "Menambahkan file Belajar_Html_Upb.html"
+
 Pada tutorial ini kami membuat “Menambahkan file Belajar_Html_Upb.html” sebagai Commit menambahkan file baru. Anda bebas membuat membuat nama Commit apa saja.
 
 6.	Buat Git status 
