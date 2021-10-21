@@ -1,7 +1,7 @@
 # Latihan-Vcs1
 ## Cara pengunaan git
 
-### 1.Login Git
+### 1. Login Git
 Untuk login ke Git, Anda bisa menggunakan akun GitHub, Gitlab, atau Bitbucket. Jika belum memiliki akun dari ketiga platform tersebut, Anda bisa mendaftarkan diri terlebih dahulu. Selanjutnya Anda bisa melakukan login awal pada Git  menggunakan Command Prompt  (Windows) atau Command Line (Linux) . Kemudian masukkan perintah-perintah yang akan kami jelaskan di bawah ini:
 
 Selanjutnya, masukkan username GitHub Anda menggunakan perintah di bawah ini. Lalu tekan ENTER jika sudah benar.
@@ -14,14 +14,14 @@ Selanjutnya untuk memastikan proses login Anda berhasil, masukkan perintah berik
 $ git config –list
 ![Gambar 1](screenshoot/ss1.png)
 
- ### 2.Login GitHub
+ ### 2. Login GitHub
 Langkah kedua dalam belajar menggunakan Git adalah Anda harus login ke dalam website GitHub. Github dan Git memiliki hubungan khusus, yaitu Git yang berperan sebagai version control system dan Github menjadi hosting atau sebagai penyimpan kode pemrograman. (jika belum memiliki akun github segera untuk daftar terlebih  dahulu).
 ![Gambar 2](screenshoot/ss3.png) 
 
 Setelah anda login, maka akan muncul tampilan dashboard dari Github seperti gambar dibawah ini. 
 ![Gambar 3](screenshoot/ss2.png)
 
-### 3.Buat Repository
+### 3. Buat Repository
 Setelah berhasil login ke Github, Anda bisa mulai membuat repository. Klik tombol New pada menu Repositories untuk membuat repository baru. 
 ![Gambar 4](screenshoot/ss4.png)
 
@@ -38,24 +38,23 @@ Anda perlu mengisi detail informasi berikut:
 
 lalu salin code https repository yg telah kita buat di github  
  
-### 4.Buat Folder pada Windows
+### 4. Buat Folder pada Windows
 Selanjutnya, Anda perlu membuat folder pada local disk komputer Anda. Fungsinya adalah untuk menyimpan update file dari repository GitHub yang telah Anda buat.
 buat new folder dan tentukan folder, contoh: berlokasi di /d/Labs
 
-### 5.Buka folder menggunakan Git Bash
+### 5. Buka folder menggunakan Git Bash
 Setelah berhasil membuat folder pada local disk komputer Anda, buka folder tersebut dengan cara klik kanan lalu pilih Git Bash Here.
 
 Setelah itu, Command Prompt akan muncul seperti gambar di bawah ini. 
  
 
-### 6.Buat Git Clone
+### 6. Buat Git Clone
 Buat perintah git clone dan pastekan code https yang telah di copy tadi dengan menggunakan perintah (git clone). 
 
 $ git clone https://github.com/RaihanTantowi/Latihan-Vcs.git lalu klik enter
 
-perintah ini berguna untuk menambahkan repository yang ada di github ke local disk komputer.
 ![Gambar 10](screenshoot/ss10.png)
-
+perintah ini berguna untuk menambahkan repository yang ada di github ke local disk komputer.
 Kemudian file repository yang ada pada github akan muncul secara otomatis ke local disk komputer, seperti gambar di bawah ini. 
 ![Gambar 1](screenshoot/ss11.png)
 
