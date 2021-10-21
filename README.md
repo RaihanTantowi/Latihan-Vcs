@@ -77,10 +77,7 @@ Untuk bisa menambahkan file ke repository GitHub, Anda perlu menerapkan langkah-
 
 ![Gambar 12](screenshoot/ss12.png)
 
-lalu masukkan perintah berikut:
-
-$ git add Belajar_Html_Upb.html 
-
+* lalu masukkan perintah berikut, $ git add Belajar_Html_Upb.html 
 Perintah tersebut tidak akan menghasilkan output apa pun.
 
 5.	Buat Commit 
